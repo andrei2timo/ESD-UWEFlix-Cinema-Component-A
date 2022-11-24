@@ -41,6 +41,9 @@ After completing the previous steps, open a web browser and type **http://localh
 ## Main interface
 ![image](https://user-images.githubusercontent.com/57757171/203782987-3b954cad-2fd3-4829-8e0d-52e894c25603.png)
 
+## Main interface in color-blind friendly mode:
+![image](https://user-images.githubusercontent.com/57757171/203811334-ad4b3cc9-6697-4986-9971-5942aaf6fd19.png)
+
 ## Cinema Manager interface
 ![image](https://user-images.githubusercontent.com/57757171/203784050-fb802fcf-e344-48ed-97f4-650a4545720b.png)
 
