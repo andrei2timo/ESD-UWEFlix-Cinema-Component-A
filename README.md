@@ -44,7 +44,7 @@ After completing the previous steps, open a web browser and type **http://localh
 ## Suporting Documents and Diagrams:
 The documents and diagrams can be found in the documents folder.
 
-##Usernames and passwords for test cases:
+## Usernames and passwords for test cases:
 ```
 Cinema Manager account:
   Username: cinema_manager
